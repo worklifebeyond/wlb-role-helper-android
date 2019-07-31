@@ -44,3 +44,5 @@
   }
   
   ```
+
+  See [Test](https://github.com/worklifebeyond/wlb-role-helper-android/blob/master/wlbrolehelper/src/test/java/com/github/worklifebeyond/RoleUnitTest.java) for details.
