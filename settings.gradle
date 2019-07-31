@@ -1,0 +1,2 @@
+include ':app', ':wlbrolehelper'
+rootProject.name='My Application'
