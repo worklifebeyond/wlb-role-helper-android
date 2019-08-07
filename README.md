@@ -1,10 +1,20 @@
-### WorkLifeBeyond Role helper for Android
+## WorkLifeBeyond Role helper for Android
 
 * Latest version: 
 
   [![](https://jitpack.io/v/worklifebeyond/wlb-role-helper-android.svg)](https://jitpack.io/#worklifebeyond/wlb-role-helper-android)
 
-#### Install
+### Install
+
+
+#### Download:
+
+* `.aar`: [Download](https://jitpack.io/com/github/worklifebeyond/wlb-role-helper-android/v1.0.0/wlb-role-helper-android-v1.0.0.aar)
+
+* `.jar`: [Download](https://jitpack.io/com/github/worklifebeyond/wlb-role-helper-android/v1.0.0/wlb-role-helper-android-v1.0.0-sources.jar)
+
+
+#### Via Gradle
 
 * in root project
 
